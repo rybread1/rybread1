@@ -1,10 +1,8 @@
 <h1 align="center">Hi 👋, I'm Ryan Osgar</h1>
 <h3 align="center">A passionate data scientist living in Brooklyn, NY</h3>
 
-- 🌱 I’m currently learning **super resolution, style transfer, transformers**
-
-- 💬 Ask me about **machine learning, deep learning, data science**
-
+- 🌱 I’m currently learning about **super resolution, style transfer, transformers**
+- 💬 Ask me about **machine learning, deep learning, data science, or anything!**
 - 📫 How to reach me **ryanosgar1@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
