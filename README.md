@@ -1,9 +1,8 @@
-<h1 align="center">Hi 👋, I'm Ryan Osgar</h1>
+<h1 align="center">Hi 👋h1>
 <h3 align="center">A data scientist living in Brooklyn, NY</h3>
 
 - 🌱 I’m currently learning about **style transfer**
 - 💬 Ask me about **machine learning, deep learning, data science, or anything else!**
-- 📫 How to reach me **ryanosgar1@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
