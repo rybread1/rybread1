@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋h1>
+<h1 align="center">Hi 👋</h1>
 <h3 align="center">A data scientist living in Brooklyn, NY</h3>
 
 - 🌱 I’m currently learning about **style transfer**
