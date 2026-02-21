@@ -1,14 +1,30 @@
-<h1 align="center">Hi 👋</h1>
-<h3 align="center">A data scientist living in Brooklyn, NY</h3>
+# Hey, I'm Ryan
 
-- 🌱 I’m currently learning about **style transfer**
-- 💬 Ask me about **machine learning, deep learning, data science, or anything else!**
+Senior Data Scientist / ML Engineer in Minneapolis. I build production ML systems and like finding structure in messy data.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/ryan-osgar-8557a8a7/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="ryan-osgar" height="30" width="40" /></a>
-</p>
+## What I work on
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+- Automated ML pipelines — retraining, monitoring, deployment
+- Graph analytics on large networks (Neo4j, 75M+ nodes)
+- Unsupervised learning when labeled data isn't available
+- ML infrastructure and platform administration (Linux, MLflow, Jupyter)
+- Making technical results useful for non-technical people
 
+## Currently exploring
+
+- Graph neural networks and network embeddings
+- LLM tooling and agentic workflows
+- Open source ML tooling in Python
+
+## Things I reach for
+
+`Python` `SQL` `XGBoost` `PyTorch` `scikit-learn` `Neo4j` `MLflow` `Pandas` `NumPy` `SHAP` `Optuna` `PostgreSQL` `PyArrow` `GitHub Actions` `pytest` `Streamlit` `Plotly` `Linux/Bash`
+
+## Background
+
+BS Statistics/Economics from the University of Minnesota. 7+ years in data science and ML engineering, mostly in financial services.
+
+## Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ryan-osgar-8557a8a7/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:ryanosgar1@gmail.com)
